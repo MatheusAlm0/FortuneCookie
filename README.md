@@ -5,7 +5,7 @@ Clicar no biscoito para ver sua sorte! <br/>
 </p>
 
 <p align="center">
-  <img alt="projeto Jogo Advinhação" src=".github/preview.png" width="100%">
+  <img alt="projeto Jogo Advinhação" src="./github/biscoito-da-sorte.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
