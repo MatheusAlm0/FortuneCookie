@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto Biscoito da sorte tem como intuito exercitar o uso de lógica de programação, variáveis, eventos e callbacks. Além do uso de @Keyframes para animações CSS.
 
 
-- [Acesse o projeto finalizado, online](https://matheusalm0.github.io/biscoito-da-sorte/)
+- [Acesse o projeto finalizado, online](https://matheusalm0.github.io/FortuneCookie/)
 ---
 
 
